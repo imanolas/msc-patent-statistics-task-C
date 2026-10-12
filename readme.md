@@ -1,4 +1,4 @@
-# Part 3 of Assignment 1 - IR_MSc_Web_Intelligence - 2020
+#Assignment 3
 
 ## Author
 * **Ioannis Manolas** (132020)
